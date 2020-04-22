@@ -10,7 +10,7 @@ import teradatasql
 import pandas as pd
 import numpy as np
 import os
-
+#comments
 currdate = datetime.now().strftime('%Y-%m-%d')
 curr_hour = datetime.now().strftime('%H')
 
